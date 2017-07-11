@@ -11,4 +11,4 @@ before script:
 
 script:
   - vendor/bin/phpunit
-  - vendor/bin/phpcs app --standar=PSR2
+  - vendor/bin/phpcs app --standard=PSR2
